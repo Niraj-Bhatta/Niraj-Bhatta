@@ -26,14 +26,22 @@ Hello world! 👋 I’m Niraj Bhatta, a computer engineering student with a stro
 
 🚀 Current Adventures:
 
+
 -Venturing into the dynamic world of full-stack development.
+
 -Learning to merge design and functionality for seamless user experiences.
+
 
 🎯 Beyond the code:
 
+
+
 -A firm believer in continuous growth 🌱.
+
 -Balances logic with creativity to make every project unique.
+
 -Ready to collaborate, innovate, and leave a mark on the tech world!
+
 
 
 🔗 Let’s build the future, one commit at a time!
