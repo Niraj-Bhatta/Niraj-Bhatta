@@ -18,11 +18,11 @@ Hello world! 👋 I’m Niraj Bhatta, a computer engineering student with a stro
 
 
 
--Frontend: HTML, CSS, JavaScript 🎨
+-Frontend: HTML, CSS, JavaScript,React 🎨
 
 -Backend: PHP, MySQL, and exploring the latest tech stacks 🛠️
 
--Completed Projects: Document verification systems, student information systems,Personal Portfolio...
+-Completed Projects: Document verification systems, student information systems,Personal Portfolio,Real time news app,weather app...
 
 🚀 Current Adventures:
 
