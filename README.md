@@ -36,12 +36,12 @@
 
 const niraj = {
   name        : "Niraj Bhatta",
-  title       : "Fullstack Developer & Content Creator",
+  title       : "AI REsearcher,Fullstack Developer & Content Creator",
   location    : "Kathmandu, Nepal 🇳🇵",
   portfolio   : "https://nirajbhatta.info.np/",
   contact     : "bhattaniraj559@gmail.com",
 
-  currentFocus: ["Node.js", "MongoDB", "REST APIs"],
+  currentFocus: ["Node.js", "MongoDB", "REST APIs"," Python Programming"],
   openTo      : "Full Stack project collaborations 🤝",
 
   stack: {
@@ -50,10 +50,9 @@ const niraj = {
     backend   : ["Node.js", "REST APIs", "Express.js"],
     databases : ["MongoDB", "MySQL"],
     tools     : ["Git", "VS Code", "Unity"],
-  },
+  }
 
-  funFact     : "I think I am funny 😄",
-  status      : "⚡ Always learning, always building",
+  
 };
 ```
 
@@ -101,19 +100,10 @@ const niraj = {
 ## 📊 &nbsp; Proficiency
 
 > **React / Frontend**
-> ![90%](https://geps.dev/progress/90?dangerColor=58a6ff&warningColor=58a6ff&successColor=58a6ff) `90%`
-
 > **Node.js / Backend**
-> ![75%](https://geps.dev/progress/75?dangerColor=56d364&warningColor=56d364&successColor=56d364) `75%`
-
-> **TypeScript**
-> ![70%](https://geps.dev/progress/70?dangerColor=3178C6&warningColor=3178C6&successColor=3178C6) `70%`
-
 > **MongoDB / Databases**
-> ![65%](https://geps.dev/progress/65?dangerColor=e3b341&warningColor=e3b341&successColor=e3b341) `65%`
-
 > **DevOps / Tooling**
-> ![50%](https://geps.dev/progress/50?dangerColor=bc8cff&warningColor=bc8cff&successColor=bc8cff) `50%`
+
 
 ---
 
