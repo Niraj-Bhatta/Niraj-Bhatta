@@ -96,17 +96,6 @@ const niraj = {
 
 ---
 
-<!-- PROFICIENCY BARS -->
-## 📊 &nbsp; Proficiency
-
-> **React / Frontend**
-> **Node.js / Backend**
-> **MongoDB / Databases**
-> **DevOps / Tooling**
-
-
----
-
 <!-- GITHUB STATS -->
 ## 📈 &nbsp; GitHub Stats
 
