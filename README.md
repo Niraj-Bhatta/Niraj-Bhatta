@@ -44,13 +44,24 @@ const niraj = {
   currentFocus: ["Node.js", "MongoDB", "REST APIs"," Python Programming"],
   openTo      : "Full Stack project collaborations 🤝",
 
-  stack: {
-    languages : ["JavaScript", "TypeScript", "Python", "Java", "C/C++", "PHP"],
-    frontend  : ["React", "HTML5", "CSS3", "Tailwind CSS"],
-    backend   : ["Node.js", "REST APIs", "Express.js"],
-    databases : ["MongoDB", "MySQL"],
-    tools     : ["Git", "VS Code", "Unity"],
-  }
+  stack:
+    Fullstack:
+          {
+            languages : ["JavaScript", "Python", "Java", "C/C++", "PHP"],
+            frontend  : ["React", "HTML5", "CSS3", "Tailwind CSS"],
+            backend   : ["Node.js", "REST APIs", "Express.js"],
+            databases : ["MongoDB", "MySQL"],
+            tools     : ["Git", "VS Code", "Unity","Postman"],
+          },
+        AI / ML:
+          {
+            languages : ["Python"],
+            backend   : ["Django"],
+            databases : ["MongoDB", "MySQL"],
+            tools     : ["Git", "VS Code",],
+          },
+#updating...
+
 
   
 };
