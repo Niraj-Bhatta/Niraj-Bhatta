@@ -53,7 +53,7 @@ const niraj = {
             databases : ["MongoDB", "MySQL"],
             tools     : ["Git", "VS Code", "Unity","Postman"],
           },
-        AI / ML:
+     AI / ML:
           {
             languages : ["Python"],
             backend   : ["Django"],
