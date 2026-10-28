@@ -44,7 +44,7 @@ const niraj = {
   currentFocus: ["Node.js", "MongoDB", "REST APIs"," Python Programming"],
   openTo      : "Full Stack project collaborations 🤝",
 
-  stack:
+  stack:[
     Fullstack:
           {
             languages : ["JavaScript", "Python", "Java", "C/C++", "PHP"],
@@ -53,7 +53,9 @@ const niraj = {
             databases : ["MongoDB", "MySQL"],
             tools     : ["Git", "VS Code", "Unity","Postman"],
           },
+
      AI / ML:
+
           {
             languages : ["Python"],
             backend   : ["Django"],
@@ -64,7 +66,7 @@ const niraj = {
 
 
   
-};
+}]
 ```
 
 ---
