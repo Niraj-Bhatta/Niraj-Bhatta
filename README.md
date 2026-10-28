@@ -165,6 +165,24 @@ const niraj = {
 
 <div align="center">
 
+### 🚀 AI Engineering Journey (ongoing)
+
+| Topic | Focus | Status |
+|:---:|:---|:---:|
+| 🐍 Python | Core language, OOP, clean scripting | 🚀 Almost Done |
+| ⚡ FastAPI | Building and serving APIs for ML models | 🚀 Almost Done |
+| 🐼 Pandas | Data cleaning, wrangling, analysis | 🚀 Almost Done |
+| 📊 Matplotlib | Data visualization | 🚀 Almost Done |
+| 🧠 Machine Learning | Core algorithms, model evaluation | 🚀 Almost Done |
+| 💬 NLP | Text processing, embeddings | 🚀 Almost Done |
+| 🤖 LLMs | Prompting, APIs, model behavior | 🔄 In Progress |
+| 📚 RAG | Retrieval pipelines, vector search | 🔄 In Progress |
+| 🔧 Fine-tuning | Adapting models to custom data | 🔄 In Progress |
+
+<br/>
+
+### 🌐 Fullstack
+
 | Technology | Progress | Status |
 |:---:|:---:|:---:|
 | Node.js | ![70%](https://geps.dev/progress/70?successColor=00ff88) | 🔄 In Progress |
@@ -172,7 +190,6 @@ const niraj = {
 | REST APIs | ![75%](https://geps.dev/progress/75?successColor=00ff88) | 🚀 Almost There |
 
 </div>
-
 ---
 
 <!-- CONNECT -->
