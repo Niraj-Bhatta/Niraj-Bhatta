@@ -37,37 +37,32 @@
 
 const niraj = {
   name        : "Niraj Bhatta",
-  title       : "AI REsearcher,Fullstack Developer & Content Creator",
+  title       : "AI Researcher, Fullstack Developer & Content Creator",
   location    : "Kathmandu, Nepal 🇳🇵",
   portfolio   : "https://nirajbhatta.info.np/",
   contact     : "bhattaniraj559@gmail.com",
 
-  currentFocus: ["Node.js", "MongoDB", "REST APIs"," Python Programming"],
-  openTo      : "Full Stack project collaborations 🤝",
+  currentFocus: ["AI Engineering 🤖", "Node.js", "MongoDB", "REST APIs"],
+  openTo      : ["Full Stack collaborations 🤝", "AI/ML projects 🧠"],
 
-  stack:[
-    Fullstack:
-          {
-            languages : ["JavaScript", "Python", "Java", "C/C++", "PHP"],
-            frontend  : ["React", "HTML5", "CSS3", "Tailwind CSS"],
-            backend   : ["Node.js", "REST APIs", "Express.js"],
-            databases : ["MongoDB", "MySQL"],
-            tools     : ["Git", "VS Code", "Unity","Postman"],
-          },
+  stack: {
+    fullstack: {
+      languages : ["JavaScript", "Python", "Java", "C/C++", "PHP"],
+      frontend  : ["React", "HTML5", "CSS3", "Tailwind CSS"],
+      backend   : ["Node.js", "Express.js", "REST APIs"],
+      databases : ["MongoDB", "MySQL"],
+      tools     : ["Git", "VS Code", "Unity", "Postman"],
+    },
 
-     AI / ML:
-
-          {
-            languages : ["Python"],
-            backend   : ["Django"],
-            databases : ["MongoDB", "MySQL"],
-            tools     : ["Git", "VS Code",],
-          },
-#updating...
-
-
-  
-}]
+    aiEngineering: {
+      languages : ["Python"],
+      backend   : ["FastAPI", "Django"],
+      dataTools : ["Pandas", "Matplotlib"],
+      learning  : ["Machine Learning", "NLP", "LLMs", "RAG", "Fine-tuning"],
+      tools     : ["Git", "VS Code"],
+    },
+  },
+};
 ```
 
 ---
