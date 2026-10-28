@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_Now-00ff88?style=for-the-badge&labelColor=0d1117" />
 </a>
 <img src="https://img.shields.io/badge/Open_To-Collaborate-00aaff?style=for-the-badge&labelColor=0d1117" />
+<br>
 <img src="https://komarev.com/ghpvc/?username=niraj-bhatta&style=for-the-badge&color=00ff88&labelColor=0d1117&label=PROFILE+VIEWS" />
 
 <br/><br/>
